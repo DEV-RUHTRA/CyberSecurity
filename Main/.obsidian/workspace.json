@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "1d67b10c8008d041",
+    "type": "split",
+    "children": [
+      {
+        "id": "331745dc396f396d",
+        "type": "tabs",
+        "dimension": 71.32616487455196,
+        "children": [
+          {
+            "id": "4b75011d8536f25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Triáde - CIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Triáde - CIA"
+            },
+            "group": "400833f678505440"
+          }
+        ]
+      },
+      {
+        "id": "6996055ee0133185",
+        "type": "split",
+        "dimension": 28.673835125448033,
+        "children": [
+          {
+            "id": "400d068e5781b00f",
+            "type": "tabs",
+            "dimension": 56.456043956043956,
+            "children": [
+              {
+                "id": "a10157f1a132fab6",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Triáde - CIA.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792574,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Diagrama de grafo de Triáde - CIA"
+                },
+                "group": "400833f678505440"
+              }
+            ]
+          },
+          {
+            "id": "8878d2e3f3b7500f",
+            "type": "tabs",
+            "dimension": 43.543956043956044,
+            "children": [
+              {
+                "id": "1caac8a700bc3642",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Triáde - CIA.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Índice de Triáde - CIA"
+                },
+                "group": "400833f678505440"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbc5e4cf4bf70edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b67a32481ed8a7aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "965c536403755072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "143a5fa5bf801a86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a5ac3b3b07ef0919",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "right": {
+    "id": "55a3fd14fcb4b98b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c678b7a4da2d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae6e0c3e0ba5b031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para Sem título"
+            }
+          },
+          {
+            "id": "d2d8861de1464e96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de Sem título"
+            }
+          },
+          {
+            "id": "3495158a135b1c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "929e706386f60949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Sem título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "965c536403755072",
+  "lastOpenFiles": [
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Sobre os atacantes (tipos de hackers).md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Oitos domínos da CISSP.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Nuvem e Segurança.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Informações Pessoais.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Frameworks e Frameworks na CyberSecurity.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Ética de segurança.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Engenharia Social.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Analista de CyberSecurity.md",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9/Triáde - CIA.md",
+    "3 - Tags/Fundamentos da CyberSecurity - Google 1- 9.md",
+    "1 - Conteúdo central e resumo/CyberSecurity.md",
+    "6 - Full Notes/Inteligência Artificial/O que é Inteligência Artificial.md",
+    "6 - Full Notes/Inteligência Artificial/Modelos de Linguagem Grandes (Large Language Models - LLMs).md",
+    "1 - Conteúdo central e resumo/Inteligência Artificial.md",
+    "Sem título.canvas",
+    "6 - Full Notes/CyberSecurity/Fundamentos da CyberSecurity - Google 1 - 9",
+    "6 - Full Notes/CyberSecurity/Sem título.md",
+    "5 - Templates/Nota genérica.md",
+    "Sem título",
+    "6 - Full Notes/Programação geral",
+    "6 - Full Notes/CyberSecurity",
+    "6 - Full Notes/Inteligência Artificial",
+    "Sem título 3.md",
+    "Sem título 1.md",
+    "Sem título.md",
+    "1 - Anotação crua/Sem título 1.md",
+    "Sem título 2.md",
+    "1 - Conteúdo central e resumo",
+    "6 - Full Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "Welcome.md",
+    "2025-08-19.md",
+    "create a link.md"
+  ]
+}
