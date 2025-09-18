@@ -1,5 +1,5 @@
 2025-08-20
-Tags: [[Fundamentos da CyberSecurity - Google 1- 9]]
+Tags: [[Fundamentos da CyberSecurity - Google 1 - 9]]
 
 ----
 # Conceito Geral:
