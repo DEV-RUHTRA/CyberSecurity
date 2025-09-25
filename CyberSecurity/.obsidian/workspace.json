@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Full Notes/CyberSecurity/HTB/Exemplo de relatório de teste de penetração.md",
+                "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/OSINT – Open-Source Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exemplo de relatório de teste de penetração"
+              "title": "OSINT – Open-Source Intelligence"
             },
             "group": "41b767cccf0576e8"
           }
@@ -41,7 +41,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "4 - Full Notes/CyberSecurity/HTB/Exemplo de relatório de teste de penetração.md",
+                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/OSINT – Open-Source Intelligence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -69,7 +69,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Diagrama de grafo de Exemplo de relatório de teste de penetração"
+                  "title": "Diagrama de grafo de OSINT – Open-Source Intelligence"
                 },
                 "group": "41b767cccf0576e8"
               }
@@ -86,13 +86,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "4 - Full Notes/CyberSecurity/HTB/Exemplo de relatório de teste de penetração.md",
+                    "file": "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/OSINT – Open-Source Intelligence.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Índice de Exemplo de relatório de teste de penetração"
+                  "title": "Índice de OSINT – Open-Source Intelligence"
                 },
                 "group": "41b767cccf0576e8"
               }
@@ -249,9 +249,16 @@
   },
   "active": "97b1dbf18148b8a9",
   "lastOpenFiles": [
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Conhecimento atual.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up/OSINT – Open-Source Intelligence.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Objetivo.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Sem título",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process/Exemplo de relatório de teste de penetração.md",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Setting Up",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations/Learning Process",
+    "4 - Full Notes/CyberSecurity/HTB/Paths/Information Security Foundations",
+    "4 - Full Notes/CyberSecurity/HTB/Paths",
     "4 - Full Notes/CyberSecurity/HTB/Sem título.md",
-    "4 - Full Notes/CyberSecurity/HTB/Exemplo de relatório de teste de penetração.md",
-    "4 - Full Notes/CyberSecurity/HTB/Objetivo.md",
     "4 - Full Notes/Inteligência Artificial/Modelos de Linguagem Grandes (Large Language Models - LLMs).md",
     "Sem título.md",
     "Fotos",
@@ -279,14 +286,7 @@
     "6 - Full Notes/CyberSecurity/Sem título.md",
     "4 - Full Notes/Programação geral",
     "4 - Full Notes/CyberSecurity",
-    "4 - Full Notes/Inteligência Artificial",
     "Sem título 3.md",
-    "Sem título 1.md",
-    "1 - Anotação crua/Sem título 1.md",
-    "Sem título 2.md",
-    "1 - Conteúdo central e resumo",
-    "4 - Full Notes",
-    "3 - Templates",
-    "4 - Indexes"
+    "Sem título 1.md"
   ]
 }
