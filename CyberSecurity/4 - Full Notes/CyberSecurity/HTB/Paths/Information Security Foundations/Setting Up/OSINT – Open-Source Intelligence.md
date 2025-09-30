@@ -3,6 +3,7 @@ Tags: [[HTB]]
 
 ----
 # Conceito Geral:
+
 	OSINT é nada mais que a coleta, análise e processamento de informações disponíveis .
 
 Para aplicar-se o OSINT devemos obter **informações relevantes** em diversas fontes como:
