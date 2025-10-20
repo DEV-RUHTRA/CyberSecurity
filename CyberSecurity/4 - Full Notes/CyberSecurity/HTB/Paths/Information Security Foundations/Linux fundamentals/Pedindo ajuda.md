@@ -4,7 +4,7 @@ Tags: [[HTB]]
 ----
 # Conceito Geral:
 
-#### Como pedir ajuda:
+#### **Como pedir ajuda:**
 
 Naturalmente, é fácil não se lembrar exatamente para que serve um comando qualquer no Shell. Para isso, é utilizado o comando ``--help``.
 
@@ -16,7 +16,7 @@ Utilizando o comando ``ls --help`` ou ``man ls`` é possível obter informaçõe
 
 ![[Pasted image 20251006120128.png]]
 
-#### Comando apropos:
+#### **Comando apropos:**
 
 É utilizado como uma **lupa**, ou seja, ele busca a palavra chave e informa uma **descrição curta**. Exemplo
 

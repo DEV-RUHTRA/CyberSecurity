@@ -4,7 +4,7 @@ Tags:
 ----
 # Conceito Geral:
 
-#### Comando ``mkdir`` e ``touch``
+#### **Comando ``mkdir`` e ``touch``**
 
 - ``touch`` <file.txt> - Cria arquivo de texto vazio
 - ``mkdir`` <directory/>- Cria diretório

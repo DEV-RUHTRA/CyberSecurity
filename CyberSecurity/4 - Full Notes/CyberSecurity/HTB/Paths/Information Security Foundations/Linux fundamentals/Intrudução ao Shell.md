@@ -4,11 +4,11 @@ Tags: [[HTB]]
 ----
 # Conceito Geral:
 
-#### O que é o Shell?
+#### **O que é o Shell?**
 
 O **Shell** é basicamente uma interface que podemos usar para controlar o OS. É baseado em linhas de comando que **estabelece a relação** entre o usuário e o Kernel do sistema.
 
-#### Terminal:
+#### **Terminal:**
 
 Imagine que você está em um grande prédio de escritórios onde o **shell** é a sala de servidores principal que processa todos os dados e comandos da empresa. O **terminal** é como uma **mesa de recepção** que serve como ponto de comunicação com a sala de servidores. Você vai até a recepção (terminal) para entregar instruções ou solicitações à sala de servidores (shell).
 

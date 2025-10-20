@@ -11,25 +11,25 @@ Arquivo pdf.
 
 ![[Linux_Fundamentals_Module_Cheat_Sheet.pdf]]
 
-#### Comandos importantes:
+#### **Comandos importantes:**
 
 - **hostname** (fornece o nome do host);
 - **id** (fornece informações do usuário);
 - **whoami** (fornece o nome do usuário);
 - **uname** (fornece informações sobre a máquina).
-#### Comando ``uname``:
+#### **Comando ``uname``:**
 
 **Uname** é um comando utilizado para obter informações da máquina que vamos explorar. Intuitivamente, podemos utilizar o ``man uname`` , para que dessa forma, o manual do comando seja exibido no terminal. Com o manual em mãos qualquer informação da máquina é fácil de se obter, ou seja, podemos explorar vulnerabilidades e exploits apenas com essas informações.
 
-#### Diretório ``/etc/passwd``:
+#### **Diretório ``/etc/passwd``:**
 
 O `/etc/passwd`arquivo é um **arquivo de texto em sistemas operacionais** do tipo Unix que contém informações essenciais da conta do usuário, como nome de usuário, ID do usuário (UID), diretório inicial e shell padrão. Utilizando o comando ``cat /etc/passwd`` é **possível ler** todo o arquivo de texto.
 
-#### Comando ``ip`` ou ``ip a``:
+#### **Comando ``ip`` ou ``ip a``:**
 
 O comando ip é utilizado para determinar todas as informações de rede, incluindo nome da rede, ip, ipv4, endereço MAC e muito mais.
 
-#### Comando ``ls -la``:
+#### **Comando ``ls -la``:**
 
 **Desvendando o Comando: `ls -l -a`**
 
@@ -78,7 +78,7 @@ Aqui está o significado de cada coluna:
 - **Encontrar Arquivos Escondidos:** A flag `-a` é essencial para encontrar arquivos de configuração, scripts ou notas que os desenvolvedores ou usuários "esconderam" de propósito ou por padrão.
     
 - **Analisar Permissões (O Mais Importante!):** A flag `-l` é a sua principal ferramenta para encontrar vetores de **escalação de privilégios**. Se você (como um usuário de baixa permissão) encontrar um arquivo ou script que pertence ao `root`, mas que você tem permissão de **escrita (`w`)**, isso é uma mina de ouro! Você poderia alterar o script, esperar o `root` executá-lo, e assim ganhar controle total da máquina. Você estará sempre procurando por configurações de permissões anormais.
-#### Comando ``ls -li nome_do_arquivo``:
+#### **Comando ``ls -li nome_do_arquivo``:**
 
 Esse comando fornece todas as informações necessárias de um arquivo, como por exemplo o **inode**, nome, dono, data, tamanho etc... Exemplo de saída: 
 

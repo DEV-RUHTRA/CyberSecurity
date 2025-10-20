@@ -4,7 +4,7 @@ Tags: [[HTB]]
 ----
 # Conceito Geral:
 
-#### História:
+#### **História:**
 
 Muitos eventos levaram à criação do primeiro kernel Linux e, por fim, do sistema operacional (SO) Linux, começando com o lançamento do sistema operacional Unix por Ken Thompson e Dennis Ritchie (ambos trabalhando para a AT&T na época) em 1970. O Berkeley Software Distribution (BSD) foi lançado em 1977, mas como continha o código Unix de propriedade da AT&T, um processo judicial resultante limitou o desenvolvimento do BSD. Richard Stallman iniciou o projeto GNU em 1983. Seu objetivo era criar um sistema operacional livre semelhante ao Unix, e parte de seu trabalho resultou na criação da GNU General Public License (GPL). Projetos de outros ao longo dos anos não resultaram em um kernel funcional e livre que seria amplamente adotado até a criação do kernel Linux.
 
