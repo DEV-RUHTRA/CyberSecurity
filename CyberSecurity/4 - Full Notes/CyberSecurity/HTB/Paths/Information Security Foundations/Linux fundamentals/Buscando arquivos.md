@@ -6,7 +6,7 @@ Tags: [[HTB]]
 
 ##### **Comando find:**
 
-O comando ``find`` é o **principal** comando utilizado para buscar por pastas, diretórios, arquivos entre outros. O especial e diferencial dele é a forma como podemos buscar utilizando parâmetros, como loca, tipo, dono, data tamanho entrou outros.
+O comando ``find`` é o **principal** comando utilizado para buscar por pastas, diretórios, arquivos entre outros. O especial e diferencial dele é a forma como podemos buscar utilizando parâmetros, como local, tipo, dono, data, tamanho, entre outros.
 
 ![[Pasted image 20251018125037.png]]
 

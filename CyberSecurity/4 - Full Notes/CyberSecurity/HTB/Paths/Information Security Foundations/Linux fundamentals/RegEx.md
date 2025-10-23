@@ -17,13 +17,13 @@ Tags: [[HTB]]
 
 Para usar os operadores de agrupamento (`()`, `|`) no `grep`, é necessário usar a opção `-E` (Expressão Regular Estendida).
 
-|**Operador**|**Exemplo**|**Descrição**|
-|---|---|---|
-|**`()`**|`(padrão)`|**Agrupador:** Trata o que está dentro como uma única unidade.|
-|**`[]`**|`[a-z]`|**Classe de Caracteres:** Encontra qualquer caractere dentro dos colchetes (ex: `[abc]` encontra 'a', 'b' ou 'c').|
-|**`{}`**|`{1,10}`|**Quantificador:** Define quantas vezes o padrão anterior deve se repetir (ex: `{1,10}` = de 1 a 10 vezes).|
-|**`\|`**|`(a\|b)`|**Operador OU (OR):** Encontra linhas que contenham _ou_ o padrão `a` _ou_ o padrão `b`.|
-|**`.*`**|`(a.*b)`|**Operador E (AND):** Encontra linhas que contenham o padrão `a` _e_ o padrão `b`, **naquela ordem**, com qualquer coisa (`.*`) no meio.|
+| **Operador** | **Exemplo** | **Descrição**                                                                                                                            |
+| ------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **`()`**     | `(padrão)`  | **Agrupador:** Trata o que está dentro como uma única unidade.                                                                           |
+| **`[]`**     | `[a-z]`     | **Classe de Caracteres:** Encontra qualquer caractere dentro dos colchetes (ex: `[abc]` encontra 'a', 'b' ou 'c').                       |
+| **`{}`**     | `{1,10}`    | **Quantificador:** Define quantas vezes o padrão anterior deve se repetir (ex: `{1,10}` = de 1 a 10 vezes).                              |
+| **`\|`**     | `(a\|b)`    | **Operador OU (OR):** Encontra linhas que contenham _ou_ o padrão `a` _ou_ o padrão `b`.                                                 |
+| **`.*`**     | `(a.*b)`    | **Operador E (AND):** Encontra linhas que contenham o padrão `a` _e_ o padrão `b`, **naquela ordem**, com qualquer coisa (`.*`) no meio. |
 
 #### **3. Exemplos Práticos com `grep -E`**
 
